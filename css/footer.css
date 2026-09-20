@@ -66,7 +66,6 @@
 .form-subscription {
   display: flex;
   gap: 24px;
-  position: relative;
 }
 
 .form-subscription-label {
@@ -128,9 +127,5 @@
 }
 
 .form-subscription-btn-icon {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  right: 24px;
   color: #fff;
 }

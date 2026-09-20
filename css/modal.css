@@ -32,8 +32,7 @@
   opacity: 0;
   border-radius: 4px;
   padding: 72px 24px 24px;
-  max-width: 582px;
-  min-height: 408px;
+  max-width: 408px;
   box-shadow:
     0 1px 1px 0 rgba(0, 0, 0, 0.14),
     0 1px 3px 0 rgba(0, 0, 0, 0.12),
@@ -169,19 +168,20 @@
 }
 
 .modal-form-terms {
-  margin-bottom: 22px;
+  margin-bottom: 24px;
 }
 
 .checkbox {
 }
 .modal-form-policy {
 }
+
 .modal-form-checkbox {
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  width: 14px;
-  height: 14px;
+  width: 16px;
+  height: 16px;
   border-radius: 2px;
   color: #f4f4fd;
   border: 0.88px solid rgba(46, 47, 66, 0.4);
@@ -224,7 +224,7 @@
 }
 
 .modal-form-link {
-  line-height: 1.33;
+  line-height: 1.17;
   text-decoration: underline;
   text-decoration-skip-ink: none;
   color: #4d5ae5;
